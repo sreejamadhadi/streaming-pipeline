@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crafty-nomad-320217",
+  "private_key_id": "6e2f35e6ba38051a14b33ebc788157794d4d8241",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCY4Gz3/ZiH+G7M\nuk6zldNLnnjlaU0fCet4IR8tRZO3xq1+y/ZfgQXz+CIDhPR9wJE4aZQGostdaoZX\n0EYIB6sJ89hxNj6itBJa4grv98j/rtiqQaeO37KP8+vCRlTmQkB1f9bwdGm+aZJM\n5ntWdyEoM+qh75HHm3HCXfGVA5nHJpHErvgtbr9N6O9ykkgpv2zptCTTG2b1pso0\ntiSewEAGp/ui8/9jEQ80WDRqeN84MdlSY/a1oxhTxWCDUIEyGy2crWMV6rt6iZ1N\nS0mSvUo5wPRZwAZMepi8piokjGpmhQ93x5hXv8SdCTHjnHq8bvG7Z3GHqPVJ5fCF\nCGxuyOfLAgMBAAECggEAOAI9GgwwdlxX56y4ScYx/+ni3BXcuert+HiWDgWILZPe\nG27JaEsCbdQyTfzHgEztR3Ay2c2J2UM+TezRw35ftQk/+pZHk1+Ku/5FyI4M91PN\nMG9WXptpNaFFdktDLosGR6YbDsRvu2G9RmxIsrB5ltuSclqtm6ZBItc9O31yuQnA\n98hakSgRb0vlCrbp5hh1S10zf9NpVbJl8C0Yy2ZrX4QdaXfUMyuJTBQO73+cCGCQ\nYKMEcgYKWYG9TSDPomXW1igZsO5i7mQyRm3ZEHo6SUgcoguwZqSjYouvEX+QkExF\nW61ISjJhai4u6aaV/LTQE2soqQ0DaBi6ymZS0go4UQKBgQDF4FPIY0/xgkH3oPdY\nK5I8AmSN1EARV+jwwVOniXrcqOozWwtS/YeariPgmglDb1bdL3z7nYWb3wsrMIpa\nUBUmf7bx+vQkpOvQBsTkmhjzHXUgqPMb+2MC8aoXqX4D2ByFCf6BVRgP9w0vqxd4\nw0EVnZnRIswZG5TF8OsTaRrpUQKBgQDFyETgx1YK8Yv6mbMR2DoGH8meLnKUHD/F\nEcuH7Scp7j+4jxM+uNIVx8xvy8gSIglk1cZDe8HPbrfoR/eGWoPecAlMl8xoDUwf\nsl6sVtfMMJvADK6hZVKm/nyZ9fdljNkf3jb+gQTy8iBE5xgHqI4ie7C4lBlQZ/89\nnpl48Lp4WwKBgEL6LoHKk9m0dG3EL1TJ0sK7MJwNNu5n6jHrzkwMLekYx8VAUPHz\nXP4PaZdxrCcGPcm6dDya0gmzko047eup5a7VVfBMOG1a4XLVh7m1KzLHSskWRsu2\n6ImrkR5XQY89jFG/00Slr/JfdjgnWleHB7WwVctDUwBApLfnVzqHvhMxAoGARgt5\nKUovVMza0DOi0Y0Mb6LOWrEEbyPaCccVl9wLZLQ16PzyyeHWtVP/ORComJNpVEbJ\nYpjvuLDzfNYP+YsQ7LQs9u1DvQ4Iiak4EjznTC9i2Y8kQZCKxw2Vv0j3BwXs13Zx\nb4zt3cSWXRCi2AN/4wJ/Qb9hf7J1GLOUktpej8UCgYAkEO1B3H4GmWINhbnHqqqw\nHzbr4ZLC2DR3+UEMOcW/e8AxBhUtJNzqbkUbzNWVX8nu5DgOqfDrklVtHLxKo+oF\n/QnCmXsg6ZRVlN34EDGi8anJxafvulHpoO6IBfMMeNd3If1Rg1Ezjviqqpixu1R5\nfKZMyfOVTvRg8p/wj0xz/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "streaming-pipeline@crafty-nomad-320217.iam.gserviceaccount.com",
+  "client_id": "108377499368397005593",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streaming-pipeline%40crafty-nomad-320217.iam.gserviceaccount.com"
+}
