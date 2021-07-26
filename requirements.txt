@@ -3,3 +3,4 @@ tweepy
 google-cloud-pubsub
 google-auth
 google-cloud-storage
+apache-airflow
